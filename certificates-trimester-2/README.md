@@ -1,55 +1,139 @@
-# 📜 IBM Certifications – Holberton France  
-
-## 🎓 Certificates Achieved – Trimester 2  
+<div align="center"><img src="https://github.com/ksyv/holbertonschool-web_front_end/blob/main/baniere_holberton.png"></div>
 
 ---
 
-### 1️⃣ **SQL and Relational Databases** 🗄️  
-**Platform**: IBM SkillsNetwork  
 
-**📌 Objective**  
-Validate my understanding of relational databases and the SQL language.  
+# 📜 IBM Certificates - Trimester 2 - France
 
-**📚 Key Learnings**  
-- 📊 SQL basics (CRUD: Create, Read, Update, Delete)  
-- 🏗️ **DDL** (Data Definition Language) and **DML** (Data Manipulation Language) commands  
-- 🔗 Joins to connect multiple tables  
-- 📐 Best practices for database design  
+![Project Badge](https://img.shields.io/badge/IBM%20Certificates-Trimester%202-blue)
 
-**💡 Usefulness**  
-This certification demonstrates my ability to handle data efficiently in a professional environment.  
-It’s an essential skill for:  
-- **Back-end development**  
-- **Data analysis**  
-- Managing applications connected to databases  
+**Novice**  
+By: *Houssem Eddine Ben Khalifa*  
+Weight: 1  
+✅ Manual QA review was done by *Jules Moleins* on **Aug 11, 2025, 9:19 AM**.  
 
 ---
 
-### 2️⃣ **Project Management Fundamentals** 📋  
-**Platform**: IBM SkillsBuild  
+## 📝 Description
 
-**📌 Objective**  
-Gain a clear understanding of a project manager’s role and the methods used to organize and track projects.  
+### 🌐 Websites clarification
+The Holberton x IBM partnership allows students to access the courses on the **[SkillsBuild](https://skillsbuild.org/)** website.  
+⚠️ The **SkillsNetwork** website isn’t covered in the partnership. However, it contains useful courses that we have selected for you.  
 
-**📚 Key Learnings**  
-- 📌 Project and project management characteristics  
-- 🛠️ Main frameworks and methodologies (**Agile**, **Waterfall**, etc.)  
-- 📆 Phases of the project lifecycle  
-- 📑 Tasks and deliverables at each stage  
-
-**💡 Usefulness**  
-This certification prepares me to:  
-- Work efficiently in a team  
-- Understand project dynamics and structure  
-- Anticipate needs and organize my work better in **software development**  
+👉 Important: SkillsBuild and SkillsNetwork are **two different sites**, so you need to create an account on each.
 
 ---
 
-## 🚀 Impact on My Journey  
-These two certifications strengthen both my **technical skills** 🖥️ (SQL & databases) and **organizational skills** 📂 (project management).  
-They make me more **versatile**, capable of:  
-- Designing technical solutions  
-- Integrating into a structured project management framework  
-- Bringing real added value to a development team  
+## 🎓 IBM Platform Trainings
+- IBM Digital Credentials  
+- IBM - Courses - SkillsBuild  
+- IBM offers digital certifications  
 
 ---
+
+## 🤝 Partnership and Certifications
+
+💡 Thanks to its partnership with IBM, **Holberton France** gives you the opportunity to earn technical certifications online through IBM’s E-Learning platform.  
+
+- Mandatory certificates ✅  
+- Optional ones to enhance your resume and stand out to recruiters 💼  
+
+---
+
+## 🔑 Login Instructions
+
+- You **must log in** to the platform using your `@holbertonstudents.com` email address.  
+- Always log in via **“Log in with Email”** first on the two platforms:  
+  - [IBM Digital Credentials](https://www.ibm.com/skills/credentials)  
+  - [IBM - SkillsBuild](https://skillsbuild.org/)  
+
+⚠️ If you try to connect directly from a project link, you may face access issues. Always log in manually first.
+
+---
+
+## ⚠️ Very Important
+
+When creating your account or connecting to a new course:  
+👉 You **must choose “apprenants adultes” (adult learners)** as learner type. Otherwise, you may face login problems.
+
+---
+
+## 📈 Path and Evaluation
+
+- **Two mandatory certificates per trimester**.  
+- Other recommended but optional certificate programs.  
+- Once obtained, certificates must be:  
+  - Uploaded to the **GitHub repository** in the correct folder ✅  
+  - With the correct file name ✅  
+  - In **image format** (PNG/JPG) ✅  
+  - Share the link if applicable 🔗  
+
+Certificate verification and scoring will be carried out by your SWE.  
+👉 Ask your local SWE to verify and manually review your project once certificates are uploaded.
+
+---
+
+# 🏆 Tasks
+
+### 0️⃣ Trimester 2 - Certificate: **SQL and Relational Databases** ✅  
+**Score:** 100%  
+
+**When can you start?**  
+- Alongside SQL/MySQL projects  
+- Or after completing them  
+
+**Prerequisites:**  
+- SQL knowledge not mandatory, but recommended  
+
+**Course link:**  
+👉 [SQL and Relational Databases](https://skillsbuild.skillsnetwork.site/courses/course-v1:BDU+DB0101EN+v1)  
+
+**Concepts covered:**  
+- Basics of SQL and relational databases  
+- DDL  
+- DML  
+- Joins  
+- And more...  
+
+📂 Repo: `holbertonschool-france-certificates-ibm`  
+📁 Directory: `certificates-trimester-2`  
+📄 File: `certificate-sql`  
+
+---
+
+### 1️⃣ Trimester 2 - Certificate: **Project Management Fundamentals** ✅  
+**Score:** 100%  
+
+**When can you start?**  
+- Anytime during Trimester 2  
+
+**Why this course?**  
+- Prepare for portfolio projects in Trimester 3  
+- Discover project management methods  
+- Understand the role of a project manager (useful for teamwork in internships/jobs)  
+
+**Prerequisites:**  
+- No prior knowledge required  
+
+**Course link:**  
+👉 [Project Management Fundamentals](https://sb-auth.skillsbuild.org/login?clientid=yl-internal-adopter&learningpath=https%3A%2F%2Fskills.yourlearning.ibm.com%2F&redirecturi=https%3A%2F%2Fskills.yourlearning.ibm.com%2Foauth%2Fcallback&referer=skills.yourlearning.ibm.com&responsetype=code&scope=openid+email)  
+
+**Modules:**  
+1. Exploring the Basics of Project Management  
+2. Navigating the Project Management Lifecycle  
+
+**Concepts covered:**  
+- Characteristics of projects & project management  
+- Project management frameworks  
+- Common methodologies  
+- Phases of the project management lifecycle  
+- Tasks of a project manager per phase  
+- Applying knowledge to real scenarios  
+
+📂 Repo: `holbertonschool-france-certificates-ibm`  
+📁 Directory: `certificates-trimester-2`  
+📄 File: `certificate-project-management-1`  
+
+---
+
+
