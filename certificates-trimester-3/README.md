@@ -120,4 +120,4 @@ Certificate verification and scoring will be carried out by your SWE.
 
 ---
 
-🚀 **Good luck with your certifications!**
+
